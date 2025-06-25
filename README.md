@@ -2,7 +2,7 @@
 
 Um projeto de carrossel de imagens animado com navegação entre itens, exibindo diferentes frutas com transições suaves, construído com HTML, CSS e JavaScript puro.
 
-🔧Funcionalidades
+# 🔧Funcionalidades
 
 Navegação entre frutas via setas laterais.
 
@@ -17,7 +17,7 @@ CSS3: estilização responsiva e animações/transições suaves.
 
 JavaScript: lógica para controlar o carrossel e gerenciar estados (slide ativo, ícones etc).
 
-💡 Aprendizados
+# 💡 Aprendizados
 Manipulação do DOM para adicionar/remover classes.
 
 Criação de carrossel animado sem uso de frameworks.

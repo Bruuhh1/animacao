@@ -3,6 +3,7 @@
 Um projeto de carrossel de imagens animado com navegação entre itens, exibindo diferentes frutas com transições suaves, construído com HTML, CSS e JavaScript puro.
 
 🔧Funcionalidades
+
 Navegação entre frutas via setas laterais.
 
 Transições animadas entre slides.
